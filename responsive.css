@@ -1,0 +1,18 @@
+@media screen and (max-width: 400px) {
+    .quote-card{
+        height: auto;
+        width: 350px;
+        border-radius: 5px;
+    }
+
+    p{
+        padding: 10px;
+    }
+    span{
+        margin-right: 10px;
+    }
+
+    .buttons{
+        margin: 40px;
+    }
+}
